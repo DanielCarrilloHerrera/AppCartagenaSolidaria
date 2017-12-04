@@ -1,0 +1,26 @@
+.divCentrarBoton{
+	padding-left: 45%;
+
+
+}
+
+.divCentrarImgContacto{
+	vertical-align: baseline;
+}
+
+h1{
+	text-align: center;
+	
+}
+
+/*.divMedia{
+padding: 20px 20px 20px 20px;
+margin-bottom: 20px;
+}*/
+
+body { 
+background: url(../img/bg.jpg) no-repeat center center fixed;
+background-repeat:no-repeat;
+background-size: cover;
+background-position:center;
+}
